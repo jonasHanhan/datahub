@@ -94,7 +94,7 @@ To change the selected theme, update the `.env` file and re-run `yarn start` fro
 #### Editing a theme
 
 To edit an existing theme, the recommendation is to clone one of the existing themes into a new file with the name `<your_themes_name>.config.json`,
-and then update the env variable as descibed above. The theme files have three sections, `styles`, `assets` and `content`. The type of the theme configs is specified
+and then update the env variable as described above. The theme files have three sections, `styles`, `assets` and `content`. The type of the theme configs is specified
 in `./src/conf/theme/types.ts`.
 
 `styles` configure overrides for the apps theming variables.

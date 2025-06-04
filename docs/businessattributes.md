@@ -25,7 +25,7 @@ Attributes that are frequently used across multiple domains, data products, proj
 Attributes requiring standardisation and inheritance of their characteristics, including name and descriptions, to be propagated.
 Attributes that need centralised management for improved control and standard enforcement.
 
-A Business Attribute could be used to accelerate and standardise business definition management at entity / fields a field across various datasets. This ensures consistent application of the characteristics across all datasets using the Business Attribute. Any change in the them requires a change at only one place (i.e., business attributes) and change can then be inherited across all the application & datasets in the organisation
+A Business Attribute could be used to accelerate and standardise business definition management at entity / fields a field across various datasets. This ensures consistent application of the characteristics across all datasets using the Business Attribute. Any change in them requires a change at only one place (i.e., business attributes) and change can then be inherited across all the application & datasets in the organisation
 
 Taking the example of "United States- Social Security Number", if an application or data owner  has multiple instances of the social security number within their datasets, they can link all these dataset attributes with a Business Attribute to inherit all the aforementioned characteristics. Additionally, users can search for associated datasets using the business description, tags, or glossary linked to the Business Attribute.
 

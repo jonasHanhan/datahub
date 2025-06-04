@@ -79,7 +79,7 @@ To add & remove structured properties for a dataset:
 
 ### Add & Remove Upstream Lineage for Dataset
 
-To add & remove a lineage edge connecting a dataset to it's upstream or input at both the dataset and schema field level:
+To add & remove a lineage edge connecting a dataset to its upstream or input at both the dataset and schema field level:
 
 ```python
 {{ inline /metadata-ingestion/examples/library/dataset_add_upstream_lineage_patch.py show_path_as_comment }}

@@ -61,7 +61,7 @@ Note that you can either provide a unique `urn` for the assertion, which will be
 
 or a random urn will be created and returned for you. This id should be stable over time and unique for each assertion.
 
-The upsert API will return the unique identifier (URN) for the the assertion if you were successful:
+The upsert API will return the unique identifier (URN) for the assertion if you were successful:
 
 ```json
 {

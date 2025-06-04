@@ -1,4 +1,4 @@
-### Prerequisities
+### Prerequisites
 
 Notice of breaking change: Starting v0.13.3, `aws_region` is now a required configuration for DynamoDB Connector. The connector will no longer loop through all AWS regions; instead, it will only use the region passed into the recipe configuration.
 

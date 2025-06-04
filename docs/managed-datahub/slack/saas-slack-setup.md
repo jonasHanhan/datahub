@@ -49,7 +49,7 @@ You may need approval from a workspace admin to do this step. Learn about [what 
 Now proceed to the [Subscriptions and Notifications page](https://datahubproject.io/docs/managed-datahub/subscription-and-notification) to see how you can subscribe to be notified about events on the platform, or visit the [Slack App page](saas-slack-app.md) to see how you can use DataHub's powerful capabilities directly within Slack.
 
 ### DataHub Slack bot permissions
-The DataHub Slack bot requires a certain set of scopes (permissions) to function. We've listed them below with thier explanations.
+The DataHub Slack bot requires a certain set of scopes (permissions) to function. We've listed them below with their explanations.
 ```
 # Required for slash commands / shortcuts.
 commands

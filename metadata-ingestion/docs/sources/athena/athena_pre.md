@@ -1,6 +1,6 @@
-### Prerequisities
+### Prerequisites
 
-In order to execute this source, you will need to create a policy with below permissions and attach it to the the aws role or credentials used in ingestion recipe.
+In order to execute this source, you will need to create a policy with below permissions and attach it to the AWS role or credentials used in ingestion recipe.
 
 ```json
 {
